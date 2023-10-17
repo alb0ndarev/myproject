@@ -73,8 +73,7 @@ namespace Metods
                 cup500new = cup1000 / 500;
                 cod = cod / 500;
 
-                int cup100 = cup500new % 100;//добавил коммит
-                //int cup100 = cup500new % 100;//добавил коммит
+                int cup100 = cup500new % 100;
                 cup100new = cup500 / 100;
                 cod = cod / 100;
                 
