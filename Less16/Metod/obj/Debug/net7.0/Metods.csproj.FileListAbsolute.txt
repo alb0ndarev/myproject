@@ -1,0 +1,15 @@
+/Users/alex/Projects/Metods/Metods/bin/Debug/net7.0/Metods
+/Users/alex/Projects/Metods/Metods/bin/Debug/net7.0/Metods.deps.json
+/Users/alex/Projects/Metods/Metods/bin/Debug/net7.0/Metods.runtimeconfig.json
+/Users/alex/Projects/Metods/Metods/bin/Debug/net7.0/Metods.dll
+/Users/alex/Projects/Metods/Metods/bin/Debug/net7.0/Metods.pdb
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.csproj.AssemblyReference.cache
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.AssemblyInfoInputs.cache
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.AssemblyInfo.cs
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.csproj.CoreCompileInputs.cache
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.dll
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/refint/Metods.dll
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.pdb
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/Metods.genruntimeconfig.cache
+/Users/alex/Projects/Metods/Metods/obj/Debug/net7.0/ref/Metods.dll
