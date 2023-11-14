@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{2D9C2464-64C4-407D-8BB4-7476E3C40F25}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lesson18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson18.Test/BankTests (ProfitClient).cs">
+    <Files>
+      <File FileName="Lesson18.Test/BankTests.cs" Line="5" Column="26" />
+      <File FileName="Lesson18/Program.cs" Line="1" Column="1" />
+      <File FileName="Lesson18.Test/BankTests (Bankomat).cs" Line="5" Column="26" />
+      <File FileName="Lesson18.Test/BankTests (ProfitClient).cs" Line="10" Column="25" />
+      <File FileName="Lesson18/Bank.cs" Line="4" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestsPlus" expanded="True">
+            <Node name="Lesson18.Test">
+              <Node name="BankTests (ProfitClient).cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="TestsPlus" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
